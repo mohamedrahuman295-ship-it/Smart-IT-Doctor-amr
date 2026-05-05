@@ -2,7 +2,7 @@
 
 *IT Support Technicians* ku easy & powerful desktop troubleshooting tool.
 
-![Demo](screenshot1.png)  <!-- Later screenshot add pannuvom -->
+![Demo](screenshot1.png)  
 
 ## ✨ Features
 
