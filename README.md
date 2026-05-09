@@ -27,7 +27,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/Smart-IT-Doctor.git
+git clone https://github.com/mohamedrahuman295-ship-it/Smart-IT-Doctor.git
 
 # Go to project folder
 cd Smart-IT-Doctor
