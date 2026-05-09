@@ -5,8 +5,8 @@
 ### Project Demo
 ![Main Dashboard]()
 ![Quick Fixes]()
-![Troubleshooting](C:\Users\acer\Desktop\Smart-IT-Doctor\Screenshot\Page 3.png)
-![Ticket System](C:\Users\acer\Desktop\Smart-IT-Doctor\Screenshot\Page 4.png)
+![Troubleshooting]()
+![Ticket System]()
 
 ## ✨ Features
 
