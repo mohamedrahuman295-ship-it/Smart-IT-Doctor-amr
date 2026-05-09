@@ -1,4 +1,4 @@
-# 🛠️ Smart IT Doctor
+# 🛠️ Smart IT Doctor AMR
 
 *IT Support Technicians*  easy & powerful desktop troubleshooting tool.
 
