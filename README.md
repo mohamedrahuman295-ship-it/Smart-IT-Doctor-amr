@@ -3,10 +3,10 @@
 *IT Support Technicians*  easy & powerful desktop troubleshooting tool.
 
 ### Project Demo
-![Main Dashboard]("C:\Users\acer\Desktop\Smart-IT-Doctor\Screenshot\Page 1.png")
-![Quick Fixes]("C:\Users\acer\Desktop\Smart-IT-Doctor\Screenshot\Page 2.png")
-![Troubleshooting]("C:\Users\acer\Desktop\Smart-IT-Doctor\Screenshot\Page 3.png")
-![Ticket System]("C:\Users\acer\Desktop\Smart-IT-Doctor\Screenshot\Page 4.png")
+![Main Dashboard]()
+![Quick Fixes]()
+![Troubleshooting](C:\Users\acer\Desktop\Smart-IT-Doctor\Screenshot\Page 3.png)
+![Ticket System](C:\Users\acer\Desktop\Smart-IT-Doctor\Screenshot\Page 4.png)
 
 ## ✨ Features
 
