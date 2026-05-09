@@ -1,36 +1,39 @@
 # 🛠️ Smart IT Doctor
 
-*IT Support Technicians* ku easy & powerful desktop troubleshooting tool.
+*IT Support Technicians*  easy & powerful desktop troubleshooting tool.
 
-![Demo](screenshot1.png)  
+### Project Demo
+![Main Dashboard](screenshots/dashboard.png)
+![Quick Fixes](screenshots/quick-fixes.png)
+![Troubleshooting](screenshots/troubleshooting.png)
+![Ticket System](screenshots/ticket.png)
 
 ## ✨ Features
 
-- Real-time System Health Monitoring (CPU, RAM, Disk)
-- One-click Quick Fixes (Clean temp, Flush DNS, etc.)
+- Real-time System Health Monitoring (CPU, RAM, Disk Usage)
+- One-Click Quick Fixes (Clean Temp, Flush DNS, Restart Network)
 - Interactive Troubleshooting Wizard
 - Support Ticket Logger
-- Tamil + English Support
-- Professional PDF Report Generation (Upcoming)
+- Professional UI with Metrics
+- Tamil + English Support Ready
 
 ## 🖥️ Tech Stack
 
 - *Python*
-- *Streamlit* (Interactive Dashboard)
-- *psutil* (System Information)
-- *Windows Compatible*
+- *Streamlit*
+- *psutil* (System Diagnostics)
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
 ```bash
-# 1. Clone the repo
-git clone https://github.com/Smart-IT-Doctor-amr/Smart-IT-Doctor.git
+# Clone the repository
+git clone https://github.com/YOUR-USERNAME/Smart-IT-Doctor.git
 
-# 2. Go inside folder
+# Go to project folder
 cd Smart-IT-Doctor
 
-# 3. Install dependencies
-pip install streamlit psutil
+# Install requirements
+pip install -r requirements.txt
 
-# 4. Run the app
+# Run the application
 streamlit run app.py
