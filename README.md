@@ -3,7 +3,8 @@
 *IT Support Technicians*  easy & powerful desktop troubleshooting tool.
 
 ### Project Demo
-![Main Dashboard]()
+![Main Dashboard](<img width="1366" height="768" alt="Page 1" src="https://github.com/user-attachments/assets/7df75d25-e1fe-4fdc-83e8-e02f2645f348" />
+)
 ![Quick Fixes]()
 ![Troubleshooting]()
 ![Ticket System]()
