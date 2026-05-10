@@ -3,11 +3,14 @@
 *IT Support Technicians*  easy & powerful desktop troubleshooting tool.
 
 ### Project Demo
-![Main Dashboard](<img width="1366" height="768" alt="Page 1" src="https://github.com/user-attachments/assets/7df75d25-e1fe-4fdc-83e8-e02f2645f348" />
+![Main Dashboard](<img width="1366" height="768" alt="Page 1" src="https://github.com/user-attachments/assets/e850a1a8-c719-4a0e-b79d-2995ff30cff6" />
 )
-![Quick Fixes]()
-![Troubleshooting]()
-![Ticket System]()
+![Quick Fixes](<img width="1366" height="720" alt="Page 2" src="https://github.com/user-attachments/assets/620c5d14-4cfe-483d-81ab-238603c4abb8" />
+)
+![Troubleshooting](<img width="1366" height="720" alt="Page 3" src="https://github.com/user-attachments/assets/a67417f6-1214-4f63-a767-2a31082d8e43" />
+)
+![Ticket System](![Uploading Page 4.png…]()
+)
 
 ## ✨ Features
 
