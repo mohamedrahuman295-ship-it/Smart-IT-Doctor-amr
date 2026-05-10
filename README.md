@@ -9,7 +9,7 @@
 )
 ![Troubleshooting](<img width="1366" height="720" alt="Page 3" src="https://github.com/user-attachments/assets/a67417f6-1214-4f63-a767-2a31082d8e43" />
 )
-![Ticket System](![Uploading Page 4.png…]()
+![Ticket System](<img width="1366" height="720" alt="Page 4" src="https://github.com/user-attachments/assets/7f85f8db-13bf-47d9-95dc-18b58fb72db9" />
 )
 
 ## ✨ Features
